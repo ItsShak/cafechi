@@ -1,0 +1,45 @@
+header {
+  
+  background-color: #17181A;
+  
+  text-align: center;
+ 
+  
+}
+
+
+  body {
+    background-color:#17181A;
+  text-align: right;
+
+   
+    color: white;
+    
+    padding: 160px
+    ;
+    direction: rtl;
+  }
+  main {
+    
+    padding: 20%;
+  margin: 10;
+
+  }
+
+
+
+.little-pics{
+  width: 100px;
+  position:absolute;
+  right: 0%;
+  padding-right: 30px;
+}
+
+.menu-titles{
+  text-align: center;
+  color: #CDCED0;
+}
+
+footer{
+  text-align: center;
+}
